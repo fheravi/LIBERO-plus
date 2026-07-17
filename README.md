@@ -1,5 +1,7 @@
-# Curriculum Learning for Visual Manipulation
-Open-ended curriculum learning for visual manipulation tasks
+# LIBERO+
+
+## Curriculum Learning for Visual Manipulation
+Open-ended curriculum learning for manipulation tasks
 
 ## Benchmarking Single RL training for Tasks in LIBERO
 ```
